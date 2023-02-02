@@ -1,4 +1,5 @@
-# SeaWiz - The Maritime Information Platform
+# <img src="https://seawiz.io/images/logos/sw_full.svg" /> SeaWiz - The Maritime Information Platform
+
 Hello there we are SeaWiz 👋
 
 We are building a maritime information platform to create more transparency within shipping. Our goal is to give people better insights on ports, ships and shipping lines with the help of benchmarking factors such as performance, reliability and ESG.
